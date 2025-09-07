@@ -55,6 +55,7 @@ Other outputs generated during analysis (not included in repo to reduce size):
 - Weekly sales by store and department (full table)
 - All store-feature merge tables
 - Additional pivot tables for marketing analysis
+- And many more
 
 
 ## How to Run
