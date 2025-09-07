@@ -17,23 +17,6 @@ This project analyzes Walmart store sales data to identify **trends, seasonality
 
 ---
 
-## Project Structure
-Walmart_Sales_Analysis/
-│
-├─ SQL/
-│ └─ walmart_sales_analysis.sql # All SQL scripts, views, and queries
-├─ Output/
-│ ├─ monthly_sales.csv
-│ ├─ top_departments.csv
-│ ├─ seasonality_index.csv
-│ └─ cohort_retention.csv
-└─ README.md # Project overview and instructions
-
-yaml
-Copy code
-
----
-
 ## Key Analyses
 
 ### 1. Data Cleaning & Validation
