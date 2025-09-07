@@ -67,10 +67,18 @@ Other outputs generated during analysis (not included in repo to reduce size):
 3. Execute queries to create views and generate results.
 4. Export outputs if needed for reporting or visualization.
 
-## Key Insights (Summary)
+## Key Insights
 
-- **Seasonality & Trends:** Sales peak during **Nov–Dec**; Fridays have the highest weekday sales.
-- **Holiday Impact:** Holidays increase sales by approximately 15%.
-- **Department Performance:** Top departments contribute ~40% of total revenue; low-performing departments can be optimized with promotions.
-- **Store Insights:** Large-format stores outperform smaller stores by ~25%, highlighting expansion potential.
-- **Cohort Retention:** Early-acquired stores/departments maintain strong revenue retention (~80% monthly).
+1. **Peak Sales Month:**
+   - December has the highest sales across all stores, indicating strong holiday demand.
+
+2. **Top Performing Departments:**
+   - Department **92** – Total sales: **483,943,341.87**
+   - Department **95** – Total sales: **449,320,162.52**
+
+3. **Holiday Impact:**
+   - Weekly sales increase by approximately **7.1%** during holiday weeks compared to non-holiday weeks.
+
+4. **Cohort Retention:**
+   - Average revenue retention across all store-department cohorts is **35.18%**, showing moderate retention over time.
+
