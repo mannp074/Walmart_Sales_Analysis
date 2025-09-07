@@ -59,7 +59,20 @@ Copy code
 - Acquisition cohorts by store/department  
 - Monthly revenue retention rates  
 
----
+## Output Files
+
+The repository contains key outputs from the analysis:
+
+- `monthly_sales.csv` – Monthly sales trends, MoM & YoY growth
+- `top_departments.csv` – Top and bottom performing departments
+- `seasonality_index.csv` – Month and weekday seasonality index
+- `cohort_retention.csv` – Revenue retention for monthly cohorts
+
+Other outputs generated during analysis (not included in repo to reduce size):
+- Weekly sales by store and department (full table)
+- All store-feature merge tables
+- Additional pivot tables for marketing analysis
+
 
 ## How to Run
 1. Create a MySQL database:
